@@ -46,7 +46,7 @@ Optional: Export insights or snapshots for sharing
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Power BI / Tableau
 
@@ -56,7 +56,7 @@ Optional: Python / Excel for preprocessing
 
 ---
 
-##📁 Repository Structure
+## 📁 Repository Structure
 
 IPL-Analysis/
 ├── data/               # Raw and cleaned IPL datasets
@@ -66,12 +66,12 @@ IPL-Analysis/
 
 ---
 
-##🌟 Credits
+## 🌟 Credits
 Created by Manasvi Inspired by the spirit of cricket and the power of data storytelling.
 
 ---
 
-##📬 Feedback & Contributions
+## 📬 Feedback & Contributions
 Feel free to open issues or submit pull requests to improve accessibility, add new features, or suggest enhancements.
 
 
